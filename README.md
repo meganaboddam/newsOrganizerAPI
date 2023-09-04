@@ -1,30 +1,17 @@
-# Organisational Api
-
+# News Organizer API
 This project was generated with [JAVA](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) version 11.
 
 ## Author
-[Michael Ochieng' Odera](https://www.github.com/MichaelOdera)
+[Megana Reddy Boddam](https://www.github.com/meganaboddam)
 
 ## Date Published
-17th February 2020
-
+4 September 2023
 
 ## Contributors
-Michael Ochieng' Odera
-
+Megana Reddy Boddam
 
 ## Contacts
-In case of any bugs or improvements, contact me through email:michogelira@gmail.com or phone:+254733258286
-
-## Development server
-developed to heroku
-
-## Code Beat Badge
-[![codebeat badge](https://codebeat.co/badges/ad7668d7-1795-42a9-bfbb-8ec0d33fb03c)](https://codebeat.co/projects/github-com-michaelodera-organisationalapi-feature-branch)
-
-
-## Bugs Encountered
-There were no major bugs to be encountered and the console would prove to be most helpful in case of any need to log out the errors
+In case of any bugs or improvements, contact me through email:meganaboddam@gmail.com
 
 ## Technologies used
 * Java11
@@ -33,7 +20,7 @@ There were no major bugs to be encountered and the console would prove to be mos
 * Maven
 * Postgres
 * SQL2O
-*  json
+* json
 * gson
 
 ## Installation
@@ -118,11 +105,3 @@ Run `gradle build` to build the project. The `build.gradle` file is important fo
 ## Running unit tests
 
 Run `run test` to execute the unit tests on your local directory after git cloning or downloading.
-
-
-## Further help
-
-To get more help on the Spark 11 use go check out the [APACHE SPARK SITE](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html).
-
-##  LICENSE
-MIT [LICENSE](LICENSE)
